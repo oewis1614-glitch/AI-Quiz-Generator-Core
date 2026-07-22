@@ -14,7 +14,7 @@
 
 ---
 
-[📖 Overview](#-overview) · [🚀 Quick Start](#-quick-start) · [🧠 How It Works](#-how-it-works) · [📁 Structure](#-project-structure) · [⚙️ Configuration](#️-configuration) · [🛠 Troubleshooting](#-troubleshooting)
+[📖 Overview](#-overview) · [🚀 Quick Start](#-quick-start) · [🧠 How It Works](#-how-it-works) · [📁 Structure](#-project-structure) · [⚙️ Configuration](#️-configuration) 
 
 </div>
 
