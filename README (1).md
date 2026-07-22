@@ -8,7 +8,7 @@
 ![Colab](https://img.shields.io/badge/Google_Colab-Ready-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**Graduation Project — Faculty of Dentistry**
+**Graduation Project**
 
 *An AI-powered exam generator that reads your lecture files and creates a full quiz — automatically.*
 
