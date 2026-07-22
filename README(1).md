@@ -22,7 +22,7 @@
 
 ## 📖 Overview
 
-The **AI Quiz Generator** is a standalone module within the [Dentor](https://github.com/) dental education platform. It allows instructors and students to:
+The **AI Quiz Generator** is a standalone module within the Dentor dental education platform. It allows instructors and students to:
 
 - **Upload** any lecture file (PDF, DOCX, TXT)
 - **Generate** a complete exam with multiple question types, difficulty levels, and page ranges — all powered by a **local** open-source LLM (no API key needed)
@@ -116,6 +116,3 @@ max_new_tokens     = 300          # correction
 
 
 
-<div align="center">
-  <sub>Built with ❤️ as part of the Dentor dental education platform</sub>
-</div>
